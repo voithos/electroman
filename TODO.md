@@ -1,7 +1,6 @@
 TODO
 ====
 
-- write up a game design document
 - setup basic platforming / run-and-jump with minimal assets
     - import background assets
     - draw electroman sprite
