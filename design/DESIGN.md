@@ -4,7 +4,7 @@
 
 Electroman Adventures is a fast-paced platformer with light RPG elements. The
 game takes place in a various industrial / cybertech environments, and follows
-the story of Electroman, the super powered in a flashy supah-suit.
+the story of Electroman, the super powered hero in a flashy supah-suit.
 
 ## Mechanics
 
@@ -19,7 +19,7 @@ and reaction-based mechanics.
 - The attacks will usually consume "charge", a continuously-regenerating
   stat, similar to stamina
 - There are a few other moves that don't cause damage, but use charge for
-  faster movement
+  faster locomotion
 
 ### Explicit stats
 
