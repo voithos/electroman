@@ -2,10 +2,11 @@ TODO
 ====
 
 - setup basic platforming / run-and-jump with minimal assets
-    - import background assets
-    - draw electroman sprite
+    - draw electroman running animation
+    - draw electroman jumping animation
+    - begin making the workshop level
     - script the movement
+    - create basic UI
 - begin adding attacks, health, enemies
     - draw basic attack sprite
-    - create basic UI
     - draw basic enemy sprite
